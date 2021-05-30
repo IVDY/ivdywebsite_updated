@@ -1,0 +1,11 @@
+{
+    "locales": ["en-US", "de", "tr"],
+      "defaultLocale": "de",
+      "pages": {
+          "*": ["common"],
+          "/":["home"],
+          "/who-we-are":["who-we-are"],
+          "/what-we-do":["what-we-do"],
+          "/how-we-do":["how-we-do"]
+      }
+}
